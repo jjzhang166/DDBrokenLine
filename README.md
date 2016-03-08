@@ -24,7 +24,7 @@ This project aims at bringing the power of brokenLine to qml designer UI.
 
 # Summary
 * [How to build](#how-to-build)
-* [How to use with QREnCode](#how-to-use-with-qml-plugins)
+* [How to use with DDBrokenLine](#how-to-use-with-qml-plugins)
 * [How to extend](#how-to-extend)
 * [Todo](#todo)
 
@@ -58,17 +58,19 @@ You can use DDBrokenLine to draw brokenLine your QML
 
 contact information
 
-Email(373955953#qq.com, Change#to@)
-QQ: 39559539234
-QQ Group:312125701
-github: [寒山-居士](https://github.com/toby20130333)
+* Email(373955953#qq.com, Change#to@)
+* QQ: 39559539234
+* QQ Group:312125701
+* github: [寒山-居士](https://github.com/toby20130333)
 
 
 #### About Author
 
+```
   var duoduozhijiao = {
     nickName  : "寒山-居士",
     site : "http://www.heilqt.com",
     blog : "http://blog.heilqt.com"
   }
 
+```
