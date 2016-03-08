@@ -2,6 +2,12 @@ About DDBrokenLine
 ## DDBrokenLine Powered QML Module On QtQuick 1.1
 Designing cool, interactive interfaces. DuoDuoZhijiao came up with a much better answer for DDBrokenLine: `QML`, a declarative language perfect for designing UIs (and much more). Here's a sample of how DDBrokenLine Plugin For QML 1 looks like:
 
+## PreView
+
+![Image](http://7qn7mv.com1.z0.glb.clouddn.com/dduiQQ%E5%9B%BE%E7%89%8720160308181002.png)
+
+![Image](http://7qn7mv.com1.z0.glb.clouddn.com/dduixxxx.png)
+
 ```
 import QtQuick 1.1
 import com.ddui.qmlcomponents 1.0
